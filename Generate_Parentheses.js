@@ -1,6 +1,7 @@
 /**
  * @param {number} n
  * @return {string[]}
+ n = ()()()
  */
 var generateParenthesis = function(n) {
     let stack = []
