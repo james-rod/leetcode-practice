@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
+ nums = [1, 3, 7, 10, 15, 17], target = 15
  */
 var search = function(nums, target) {
     let left = 0
