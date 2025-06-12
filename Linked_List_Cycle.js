@@ -4,6 +4,7 @@
  *     this.val = val;
  *     this.next = null;
  * }
+ Input: head = [1,2,3,4], index = 1
  */
 
 /**
