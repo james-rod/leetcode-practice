@@ -1,6 +1,13 @@
 /**
  * @param {character[][]} grid
  * @return {number}
+ Input: grid = [
+    ["0","1","1","1","0"],
+    ["0","1","0","1","0"],
+    ["1","1","0","0","0"],
+    ["0","0","0","0","0"]
+  ]
+Output: 1
  */
 var numIslands = function(grid) {
     let rows = grid.length
